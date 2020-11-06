@@ -133,12 +133,14 @@
       "id": 1,
       "postId": 2,
       "userId": 1,
+      "userName": "Anny",
       "comment": "This is amazing"
     },
     {
       "id": 2,
       "postId": 2,
       "userId": 2,
+      "userName": "Rhea",
       "comment": "This is amazing"
     }
   ],
@@ -146,11 +148,13 @@
     {
       "id": 1,
       "postId": 2,
+      "userName": "Anny",
       "userId": 1
     },
     {
       "id": 2,
       "postId": 2,
+      "userName": "Rhea",
       "userId": 2
     }
   ]
